@@ -1,0 +1,3 @@
+package MCtictoc;
+
+@license(LGPL);
